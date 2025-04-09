@@ -2,9 +2,8 @@ import os
 
 template_path = "template.html"
 teachers = {
-    "AliReza": "teacher01_AliReza",
-    "Sara": "teacher02_Sara",
-    "Hossein": "teacher03_Hossein",
+    "Nasim": "teachersteacherNasimAmini",
+    "Nani": "teachersteacherNaniJahani",
 }
 
 with open(template_path, "r", encoding="utf-8") as tpl:
